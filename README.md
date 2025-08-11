@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **React + TypeScript** projects  
-- 🌱 Learning **Next.js** & **Framer Motion**  
+- 🌱 Learning **Next.js**  
 - 🎯 Goal: Build modern, fast, and beautiful UIs  
 - 📫 How to reach me: **mohamadrezah420@gmail.com**
 
@@ -33,7 +33,7 @@
 ---
 
 ### 🔗 Links
-- 🌐 [Portfolio Website](https://simurgh420.github.io)
+- 🌐 [Portfolio Website](https://simurgh420.github.io/personalblog/)
 - 📄 [Resume](https://your-resume-link.com)
 - 💬 Telegram: [@Mmdrza_hb](https://t.me/Mmdrza_hb)
 
