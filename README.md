@@ -7,7 +7,7 @@
 - 🔭 Currently working on **React + TypeScript** projects  
 - 🌱 Learning **Next.js** & **Framer Motion**  
 - 🎯 Goal: Build modern, fast, and beautiful UIs  
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **mohamadrezah420@gmail.com**
 
 ---
 
