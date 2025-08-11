@@ -35,7 +35,7 @@
 ### 🔗 Links
 - 🌐 [Portfolio Website](https://simurgh420.github.io)
 - 📄 [Resume](https://your-resume-link.com)
-- 💬 Telegram: [@YourTelegramID](https://t.me/YourTelegramID)
+- 💬 Telegram: [@YourTelegramID](https://t.me/Mmdrza_hb)
 
 ---
 
