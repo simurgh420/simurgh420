@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simurgh</h1>
-<h3 align="center">Front-End Developer | React, TypeScript, Tailwind CSS</h3>
+<h3 align="center">Front-End Developer | React, Next.js, TypeScript, Tailwind CSS</h3>
 
 ---
 
