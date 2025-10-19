@@ -38,11 +38,10 @@
 
 ### 🔗 Links
 
-- 📝 [Personal Blog](https://simurgh420.github.io/personalblog/) – Blogging platform with **React + TypeScript**, Markdown support
-        - 🌐 [CMSReact.js](https://cms-5241.vercel.app/) A **React**  CMS demo with modular components, responsive UI
- - 🛒 [DGShop](https://dgshap-nxtcwvrta-simurghs-projects.vercel.app/) – E-commerce frontend with **ShadCN UI** and authentication
-  - 🌐 [CMS Platform](https://cmsnextp2.vercel.app/) – Modular CMS with **Next.js, Prisma, Tailwind CSS**, and **RBAC**
-- 💬 Telegram: [@Mmdrza_hb](https://t.me/Mmdrza_hb)
+- 📝 [Personal Blog](https://simurgh420.github.io/personalblog/) – Blogging platform with **React + TypeScript**, Markdown support  
+- 🌐 [CMSReact.js](https://cms-5241.vercel.app/) – A **React** CMS demo with modular components and responsive UI  
+- 🛒 [DGShop](https://dgshap-nxtcwvrta-simurghs-projects.vercel.app/) – E-commerce frontend with **ShadCN UI** and authentication  
+- ⚡ [CMS Platform](https://cmsnextp2.vercel.app/) – Modular CMS with **Next.js, Prisma, Tailwind CSS**, and **RBAC**
 
 ---
 
